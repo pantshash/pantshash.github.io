@@ -19,3 +19,5 @@ plugins:
 # Custom vars
 version:            0.1
 #google_analytics_id: 
+
+theme: jekyll-theme-merlot
