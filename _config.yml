@@ -1,0 +1,21 @@
+# Setup
+title:               Tejonidhi
+tagline:             'A Geopolitics, History and Linux blog'
+description:         
+url:                 http://pantshash.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Shashwat Pant
+  url:               
+  email:             
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:            0.1
+#google_analytics_id: 
